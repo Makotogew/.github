@@ -5,7 +5,7 @@ Our (The JSON Schema Organization) Code of Conduct is a combination of:
 - [The "Contributor Covenant Code of Conduct" 2.1](#contributor-covenant-code-of-conduct)
 - [The OpenJS Foundation Code of Conduct](#the-openjs-foundation-code-of-conduct)
 
-## Applicable sections
+## Applicable sections 
 
 We take the whole of the Contributor Covenant Code of Conduct 2.1 as is.
 
